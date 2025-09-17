@@ -1,4 +1,4 @@
-# post - AssigneMnet
+# post - AssigneMent
 
 ## Overview
 A Flutter mobile application that fetches posts from JSONPlaceholder API
